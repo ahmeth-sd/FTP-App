@@ -17,4 +17,4 @@ Bu proje, Python'un Tkinter kütüphanesi kullanılarak oluşturulmuş basit bir
 - ftplib (Python'un standart kütüphanesinde bulunur)
 
 
-![image.png]
+[App](image.png)
