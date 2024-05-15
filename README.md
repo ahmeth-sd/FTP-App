@@ -1,4 +1,4 @@
-# Tkinter FTP İstemcisi
+# Tkinter FTP Uygulaması
 
 Bu proje, Python'un Tkinter kütüphanesi kullanılarak oluşturulmuş basit bir FTP (File Transfer Protocol) istemcisidir. Grafik arayüzü sayesinde FTP sunucularına kolayca bağlanabilir, dosya ve dizin işlemleri yapabilirsiniz.
 
